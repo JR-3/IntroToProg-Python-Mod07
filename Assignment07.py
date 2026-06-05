@@ -315,7 +315,5 @@ while True:
     # Stop the loop
     elif menu_choice == "4":
         break  # out of the loop
-    else:
-        print("Please only choose option 1, 2, or 3")
 
 print("Program Ended")
